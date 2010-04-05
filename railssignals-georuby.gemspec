@@ -4,14 +4,14 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{nofxx-georuby}
+  s.name = %q{railssignals-georuby}
   s.version = "1.7.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Guilhem Vellut", "Marcos Augusto"]
-  s.date = %q{2010-01-28}
+  s.date = %q{2010-04-05}
   s.description = %q{GeoRuby provides geometric data types from the OGC 'Simple Features' specification.}
-  s.email = %q{x@nofxx.com}
+  s.email = %q{kkowar@railssignals.com}
   s.extra_rdoc_files = [
     "LICENSE",
      "README.txt"
@@ -88,10 +88,10 @@ Gem::Specification.new do |s|
      "spec/spec.opts",
      "spec/spec_helper.rb"
   ]
-  s.homepage = %q{http://github.com/nofxx/georuby}
+  s.homepage = %q{http://github.com/railssignals/georuby}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.3.5}
+  s.rubygems_version = %q{1.3.6}
   s.summary = %q{Ruby data holder for OGC Simple Features}
   s.test_files = [
     "spec/geo_ruby/gpx4r/gpx_spec.rb",

@@ -4,11 +4,11 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "nofxx-georuby"
+    gem.name = "railssignals-georuby"
     gem.summary = "Ruby data holder for OGC Simple Features"
     gem.description = "GeoRuby provides geometric data types from the OGC 'Simple Features' specification."
-    gem.email = "x@nofxx.com"
-    gem.homepage = "http://github.com/nofxx/georuby"
+    gem.email = "kkowar@railssignals.com"
+    gem.homepage = "http://github.com/railssignals/georuby"
     gem.authors = ["Guilhem Vellut", "Marcos Augusto"]
 
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
