@@ -44,7 +44,7 @@ Gem::Specification.new do |s|
      "lib/geo_ruby/simple_features/multi_polygon.rb",
      "lib/geo_ruby/simple_features/point.rb",
      "lib/geo_ruby/simple_features/polygon.rb",
-     "nofxx-georuby.gemspec",
+     "railssignals-georuby.gemspec",
      "script/console",
      "script/destroy",
      "script/generate",
